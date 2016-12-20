@@ -1,4 +1,4 @@
-![Laravel](/lib/img/laravel-logo.png "Laravel")
+![Laravel](lib/img/laravel-logo.png "Laravel")
 
 # Laravel<br>Package Development
 
